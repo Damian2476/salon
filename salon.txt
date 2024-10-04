@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+    <link rel="icon" type="favicon-16x16.png" href="favicon-16x16.png" />
+<title>Poznaj europe</title>
+
+</head>
+<body>
+
+<div class="header"></div>
+  
+<div class="site">
+    <div class="left">
+            <h2>Promocje</h2>
+            <table>
+                <tr>
+                    <td>Warszawa</td>
+                    <td>od 600 zł</td>
+                </tr>
+                <tr>
+                    <td>Wenecja</td>
+                    <td>od 1200 zł</td>
+                </tr>
+                <tr>
+                    <td>Paryż</td>
+                    <td>od 1200 zł</td>
+                </tr>
+            </table>
+    </div>
+    <div class="nav">
+                <img src="test1.png">
+     </div>
+        
+     <div class="right">
+            <h2>Kontakt</h2>
+napisz do nas
+                        <p>telefon: 444555666</p>
+     </div>
+</div>
+    <div class="nav">
+        <a href="#">W tym roku jedziemy do</a>
+    </div>
+
+    
+
+    <div class="content">
+        <h2>W poprzednich latach byliśmy:</h2>
+<h2>1 dnia 2019-07-14 francja </h2>
+<h2>2 dnia 2019-07-14 hiszpania barcelona</h2>
+<h2>3 dnia 2019-08-14 hiszpania barcelona</h2>
+    </div>
+
+    <div class="nav">Promocje</div>
+ <footer>
+    Autor:<i>Damian</i>
+ </footer>
+   
+
+</body>
+</html>
+
