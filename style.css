@@ -1,13 +1,13 @@
 body {
     font-family: Arial, Arial;
     background-color: #b162a5;
-    margin: 50px;
+    margin: 55px;
     padding: 0;
 }
 .header {
-    background-color: #b162a5;
+    background-color: #000000;
     text-align: left;
-    padding: 5px;
+    padding: 0px;
     display: flex;
     align-items: center;
 }
@@ -16,12 +16,12 @@ body {
 }
 .header h1 {
     color: #Fd5000;
-    font-size: 80px;
-    margin: 0 20px;
+    font-size: 60px;
+    margin: 0 10px;
 }
 .nav {
     background-color: #ffffff;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
 }
 .nav a {
@@ -52,7 +52,7 @@ body {
     font-weight: bold;
 }
 
-}
+
 .footer {
     text-align: center;
     padding: 10px;
@@ -68,4 +68,14 @@ body {
 .site {
     display: flex;
     justify-content: space-between;
+}
+.site {
+    display: flex;
+}
+.site aside, .side section {
+    display: flex;
+    flex-direction: column;
+}
+.site {
+    display: flex;
 }
